@@ -9,3 +9,12 @@ To analyze sales data from a coffee shop in order to identify customer preferenc
 - Customer Insights:
 - Analyze purchase frequency and basket size.
 - Segment customers based on buying behavior.
+☕ Coffee Shop Sales Data Analysis
+📌 Project Overview
+This project analyzes sales data from a coffee shop to uncover customer preferences, product performance, and revenue trends. The goal is to generate actionable insights that improve inventory management, promotional strategies, and overall business growth.
+🎯 Objectives
+- Clean and prepare raw sales data for analysis.
+- Identify top‑selling products and categories.
+- Detect peak sales hours and seasonal demand patterns.
+- Segment customers based on buying behavior.
+- Provide recommendations for inventory, staffing, 
