@@ -1,10 +1,93 @@
-# -excel-dashboard-project
-To analyze sales data from a coffee shop in order to identify customer preferences, peak sales periods, and product performance. The goal is to generate actionable insights that improve inventory management, pricing strategies, and overall business growth.
-- Data Cleaning & Preparation: Handle missing values, correct inconsistencies, and structure the dataset for analysis.
-- Exploratory Data Analysis (EDA): Use descriptive statistics and visualizations to understand sales trends.
-- Sales Performance Analysis:
-- Identify top‑selling products and categories.
-- Track daily, weekly, and monthly sales patterns.
-- Detect seasonal or time‑based demand fluctuations.
-- Customer Insights:
--
+☕ Coffee Shop Sales Dashboard (Excel)
+
+An interactive Coffee Shop Sales Dashboard created using Microsoft Excel to analyze sales performance, revenue, profit, and customer trends across multiple years, months, cities, and product categories.
+
+📌 Project Overview
+
+This dashboard provides a complete sales analysis for a coffee shop business.
+It helps stakeholders understand:
+
+Sales performance by year and month
+
+Revenue and profit trends
+
+Product category contribution
+
+City-wise revenue share
+
+Customer buying patterns by weekdays
+
+🛠 Tools & Technologies Used
+
+Microsoft Excel
+
+Pivot Tables & Pivot Charts
+
+Slicers (Year, Month, City)
+
+Excel Formulas
+
+Data Visualization & Dashboard Design
+
+📊 Key KPIs Displayed
+
+Total Transactions: 9,971
+
+Total Quantity Sold: 14,117
+
+Total Revenue: ₹46,374
+
+Total Profit: ₹16,231
+
+📈 Dashboard Insights
+🔹 Sales Analysis
+
+Monthly transactions trend
+
+Weekday-wise transaction behavior
+
+Yearly revenue percentage split
+
+🔹 Category Performance
+
+Coffee Beverages
+
+Tea Beverages
+
+Specialty Drinks
+
+Snacks
+
+Sandwiches
+
+Desserts
+
+Cold Drinks
+
+🔹 City-wise Revenue
+
+Austin
+
+Chicago
+
+Los Angeles
+
+New York
+
+Seattle
+
+🔹 Financial Overview
+
+Monthly revenue vs profit comparison
+
+Category contribution to total sales
+
+🎛 Interactive Filters (Slicers)
+
+Year: 2021, 2022, 2023
+
+Months: Jan – Dec
+
+City Selection
+
+These slicers allow real-time filtering and dynamic insights
